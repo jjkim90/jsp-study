@@ -9,3 +9,4 @@ create table myfile (
     sfile varchar2(30) not null,
     postdate date default sysdate not null
 );
+--살짝 수정해봤습니다
