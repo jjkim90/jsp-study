@@ -95,7 +95,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>DirectServletPrint</servlet-name>
-    <url-pattern>/13Servlet/DirectServletPrint.do</url-pattern>
+    <url-pattern>/13Servlet/DirectServletPrint.mit</url-pattern>
   </servlet-mapping>
 
   <!-- 서블릿 매핑 3(예제 13-14) -->
