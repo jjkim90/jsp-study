@@ -85,7 +85,7 @@
   </servlet>
   <servlet-mapping>  <!-- 서블릿과 요청명 매핑 -->
     <servlet-name>HelloServlet</servlet-name>
-    <url-pattern>/13Servlet/HelloServlet.do</url-pattern>
+    <url-pattern>/13Servlet/HelloServlet.mit</url-pattern>
   </servlet-mapping>
 
   <!-- 서블릿 매핑 2(예제 13-7) -->
