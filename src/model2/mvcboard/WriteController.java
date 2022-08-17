@@ -81,4 +81,5 @@ public class WriteController extends HttpServlet {
         else {  // 글쓰기 실패
             resp.sendRedirect("../mvcboard/write.do");
         }
-    }}
+    }
+}
